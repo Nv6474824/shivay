@@ -1,0 +1,6 @@
+{
+  "name": "Shivaay Electronics",
+  "description": "High-end responsive landing page for Shivaay Electronics with interactive catalog, budget calculator, and WhatsApp cart builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
